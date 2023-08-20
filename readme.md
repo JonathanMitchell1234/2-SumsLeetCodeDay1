@@ -1,5 +1,4 @@
 Explanation:
-
 Iterate through the array with an outer loop using i as index
 
 For each i, iterate through the rest of array using j
@@ -27,3 +26,4 @@ Optimized Solution with Hash Map:
     return null; // No solution found
 }
 ```# 2-SumsLeetCodeDay1
+# 2-SumsLeetCodeDay1
